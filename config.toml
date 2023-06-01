@@ -1,5 +1,5 @@
-baseURL = "https://breaches.net"
-title   = "Breaches.net - The Breached Database Directory"
+baseURL = "https://whateveritworks.net/"
+title   = "WhateverItWorks - The Data Breached Database Directory"
 languageCode = "en-us"
 theme = "breaches-net"
 
@@ -43,7 +43,7 @@ disableHugoGeneratorInject = false
   posts = "/breaches/:year/:month/:title/"
 
 [author]
-  name = "breaches.net"
+  name = "whateveritworks.net"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -60,13 +60,13 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "The Breached Database Directory"
+  description = "The Data Breached Database Directory"
   keywords = ""
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "The Breached Database Directory"
+  homeSubtitle = "The Data Breached Database Directory"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
